@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar primary>
+    <button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>
+      Speakers
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <span text-wrap *ngFor="let speaker of speakers">
+      <ion-item-divider light *ngIf="speaker.type">
+        {{speaker.value}}
+      </ion-item-divider>
+      
+      <a ion-item *ngIf="!speaker.type" (click)="speakerDetail(speaker)">
+        <ion-avatar item-left *ngIf="!offline">
+          <img [src]="speaker.image_75">
+        </ion-avatar>
+        <h2>{{speaker.name}}</h2>
+        <h3>{{speaker.designation}}</h3>
+      </a>
+      
+    </span>
+  </ion-list>
+</ion-content>

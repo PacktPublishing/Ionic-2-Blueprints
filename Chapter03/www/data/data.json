@@ -1,0 +1,1088 @@
+
+{
+    "timezone": "Australia/Brisbane", 
+    "sessions": [
+        {
+            "day": "Saturday 21st November", 
+            "sessions": [
+                {
+                    "start_time": "2015-11-21 09:30:00", 
+                    "topics": [
+                        {
+                            "name": "HTML5 Games", 
+                            "slug": "html5-games"
+                        }, 
+                        {
+                            "name": "JavaScript", 
+                            "slug": "javascript"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgq/", 
+                    "times": "9:30am\u00a0-\u00a010:00am", 
+                    "id": "sdtpgq", 
+                    "types": [], 
+                    "end_time_epoch": 1448064000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Post-cynical upper twenty-something code monkey, working at @abcnews and helping out at @brisjs. I like JavaScript, #gamedev, bicycles and men.</p>", 
+                            "web_url": "http://lanyrd.com/profile/ashkyd/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/684dc704d0f9c4af9f08a9acd51f0fc0b28d1ea8-s300.jpeg", 
+                            "name": "Ash Kyd", 
+                            "elsewhere": [], 
+                            "role": "Upper twenty-something code monkey, working at @iixhq and helping out at @brisjs. I like JavaScript, #gamedev, bicycles and men.", 
+                            "twitter": "@AshKyd", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/684dc704d0f9c4af9f08a9acd51f0fc0b28d1ea8-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Building games for the Web", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 10:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448062200, 
+                    "abstract": "<p>Always wanted to make games but not sure where to start? The modern web has a swathe of tools to help you out, and they&#39;re all available in NPM.<br>\nI recently built a HTML5 game from scratch which came second in the JS13k competition. In this talk I&#39;ll discuss how I built it, as well as show you the tools and all the short cuts to getting started in game development.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 09:30:00", 
+                    "topics": [
+                        {
+                            "name": "Coding", 
+                            "slug": "coding"
+                        }, 
+                        {
+                            "name": "Creativity", 
+                            "slug": "creativity"
+                        }, 
+                        {
+                            "name": "Making", 
+                            "slug": "making"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgt/", 
+                    "times": "9:30am\u00a0-\u00a010:00am", 
+                    "id": "sdtpgt", 
+                    "types": [], 
+                    "end_time_epoch": 1448064000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Builds things. Currently working with a RepRap, Arduino, Go, Android and r\u0336u\u0336b\u0336y\u0336-\u0336o\u0336n\u0336-\u0336r\u0336a\u0336i\u0336l\u0336s\u0336. Occasionally derps with Haskell.</p>", 
+                            "web_url": "http://lanyrd.com/profile/clinton_freeman/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a12c38075f3913fc93896ab486588eac33e599f8-s300.jpeg", 
+                            "name": "Clinton Freeman", 
+                            "elsewhere": [], 
+                            "role": "Builds things. Currently working with a RepRap, Arduino, Go, Android and r\u0336u\u0336b\u0336y\u0336-\u0336o\u0336n\u0336-\u0336r\u0336a\u0336i\u0336l\u0336s\u0336. Occasionally derps with Haskell.", 
+                            "twitter": "@clinton_freeman", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a12c38075f3913fc93896ab486588eac33e599f8-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Monastic Engineering", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 10:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448062200, 
+                    "abstract": "<p>About twelve months ago I left full time employment to become an engineering monk. I wanted to bang away on my keyboard and create, just for fun, without any distractions. Not to create a business, not to make products that people want, not to discover something new. But to indulgently explore oddities that perhaps only I find interesting. This is a short glimpse into the oddities and tumbles from the year. Did I attain programming Nirvana?</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 10:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwmzm/", 
+                    "times": "10:00am\u00a0-\u00a010:30am", 
+                    "id": "sdwmzm", 
+                    "types": [], 
+                    "end_time_epoch": 1448065800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Web nerd, knitting enthusiast, Canadian living in Melbourne. Head of content, @sitepointdotcom; board member, @awesomemelb. Happiest when making things.</p>", 
+                            "web_url": "http://lanyrd.com/profile/ophelielechat/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/81506822821c7ab1550596029e2a68bdc660aca5-s300.jpeg", 
+                            "name": "Ophelie Lechat", 
+                            "elsewhere": [], 
+                            "role": "Web nerd, knitting enthusiast, Canadian living in Melbourne. Head of content, @sitepointdotcom; board member, @awesomemelb. Happiest when making things.", 
+                            "twitter": "@OphelieLechat", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/81506822821c7ab1550596029e2a68bdc660aca5-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Fame, Fortune and Better Stand-Ups: why developers should write with words, not just with code", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 10:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448064000, 
+                    "abstract": "<p>This talk will explain why writing skills (not just coding skills) are key to working with your dev team, your product team, and the web community at large. It&#39;s not just about better documentation: writing well, and knowing where to write, will open up new ways of working with the smartest people in the web industry</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 10:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwwcx/", 
+                    "times": "10:00am\u00a0-\u00a010:30am", 
+                    "id": "sdwwcx", 
+                    "types": [], 
+                    "end_time_epoch": 1448065800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Developer at Adslot</p>", 
+                            "web_url": "http://lanyrd.com/profile/dmitryshirokov/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/794c9306fb978f8c6626b19626e26f17ebfca1fa-s300.jpeg", 
+                            "name": "Dmitry Shirokov", 
+                            "elsewhere": [], 
+                            "role": "Developer at Adslot", 
+                            "twitter": null, 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/794c9306fb978f8c6626b19626e26f17ebfca1fa-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Using Dredd to enforce the API law", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 10:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448064000, 
+                    "abstract": "<p>Documenting your REST API is always non trivial job. Making sure that documentation is in sync with real API implementation is even harder. Here&#39;s Dredd tool to make your development process more robust and fun. Let&#39;s talk about Dredd itself and some other cool stuff that can be done with API Blueprint.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 11:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphm/", 
+                    "times": "11:00am\u00a0-\u00a011:30am", 
+                    "id": "sdtphm", 
+                    "types": [], 
+                    "end_time_epoch": 1448069400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>C/C++ and Python developer. Interested in Apache, WSGI, Python web hosting and Python web frameworks.</p>", 
+                            "web_url": "http://lanyrd.com/profile/grahamdumpleton/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/2a531c6e05e49627a4547aad60b824627aae6240-s300.jpeg", 
+                            "name": "Graham Dumpleton", 
+                            "elsewhere": [], 
+                            "role": "C and Python developer. Interested in Apache, WSGI, Python web hosting and Python web frameworks.", 
+                            "twitter": "@GrahamDumpleton", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/2a531c6e05e49627a4547aad60b824627aae6240-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Deploying to OpenShift", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 11:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448067600, 
+                    "abstract": "<p>Details coming soon!</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 11:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphg/", 
+                    "times": "11:00am\u00a0-\u00a011:30am", 
+                    "id": "sdtphg", 
+                    "types": [], 
+                    "end_time_epoch": 1448069400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Readify Senior Developer, JavaScript fanboy, open web lover, web MVPness holder, IE userAgent, IndexedDB proponent</p>", 
+                            "web_url": "http://lanyrd.com/profile/slace/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/b0330fcb2dd178e470c642c22c37ebc507c52718-s300.png", 
+                            "name": "Aaron Powell", 
+                            "elsewhere": [], 
+                            "role": "Readify Lead Consultant, JavaScript fanboy, open web lover, web MVPness holder, IE userAgent, IndexedDB proponent", 
+                            "twitter": "@slace", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/b0330fcb2dd178e470c642c22c37ebc507c52718-s75.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "This is TypeScript", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 11:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448067600, 
+                    "abstract": "<p>TypeScript brings the power of static typing to JavaScript, but why would we want a type system on a dynamicly typed language? We\u2019ll explore beyond knowing that a number is a number and look at some of the power TypeScript can introduce to your build pipeline.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 11:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwcqp/", 
+                    "times": "11:30am\u00a0-\u00a012:00pm", 
+                    "id": "sdwcqp", 
+                    "types": [], 
+                    "end_time_epoch": 1448071200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>JavaScript &amp; NodeJS Developer @nodesource. Founder &amp; organiser of the @campjsnews conference &amp; SingaporeJS meetup.</p>", 
+                            "web_url": "http://lanyrd.com/profile/secoif/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e19ad8080c0d705a1e7ab6d0062ad814fdb6ae72-s300.png", 
+                            "name": "Tim Oxley", 
+                            "elsewhere": [], 
+                            "role": "JavaScript & NodeJS Developer. Founder & organiser of the @campjsnews conference & SingaporeJS meetup.", 
+                            "twitter": "@secoif", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e19ad8080c0d705a1e7ab6d0062ad814fdb6ae72-s75.png", 
+                            "speaker_bio": "<p>Tim Oxley is an an Australian JavaScript developer living in Singapore working with NodeSource. Tim is a co-host of the NodeUp podcast, author of NodeSchool&#39;s functional JavaScript workshop, founder of the CampJS conference, founder of the SingaporeJS meetup and an avid open-source contributor.</p>"
+                        }
+                    ], 
+                    "title": "Modular vs Monolith \u2013 The Structure of Node.JS Applications", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448069400, 
+                    "abstract": "<p>The Node.JS &amp; npm ecosystem is oft praised for it&#39;s &quot;culture of extreme modularity&quot;, which has led to the proliferation of hundreds of thousands packages on npm. How do modular patterns translate into the construction of evolving, real-world applications?</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 11:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphk/", 
+                    "times": "11:30am\u00a0-\u00a012:30pm", 
+                    "id": "sdtphk", 
+                    "types": [], 
+                    "end_time_epoch": 1448073000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Developer Advocate at @Telerik. @KendoUI, @NativeScript, Web, Mobile. CrossFit, rugby union, and ice hockey. Loving husband and father of two boys. Canadian.</p>", 
+                            "web_url": "http://lanyrd.com/profile/johnbristowe/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/8589da235f06d3dbc53e3454427a0a1de27819d9-s300.jpeg", 
+                            "name": "John Bristowe", 
+                            "elsewhere": [], 
+                            "role": "Developer Advocate at @Telerik/@ProgressSW. @KendoUI, @NativeScript, Web, Mobile. CrossFit, rugby union, and ice hockey. Canadian expat living Down Under.", 
+                            "twitter": "@JohnBristowe", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/8589da235f06d3dbc53e3454427a0a1de27819d9-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Using NativeScript to write Cross-Platform Mobile Apps (Workshop)", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 12:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448069400, 
+                    "abstract": "<p>This just-the-awesomesauce session will be an action-packed, 110% gut-busting, ludicrous speed thrill-ride through the technicolor hyperspace of native mobile app development with NativeScript. NativeScript allows you to build native applications for iOS and Android through languages like JavaScript and TypeScript. Like a monster truck rally, this session will leave you wanting more; you\u2019ll have a whole seat but you\u2019ll only need the edge.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 12:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtryc/", 
+                    "times": "12:00pm\u00a0-\u00a012:30pm", 
+                    "id": "sdtryc", 
+                    "types": [], 
+                    "end_time_epoch": 1448073000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Australian designer &amp; coder living in Chicago. Creator of <a href=\"http://webcolourdata.com\" rel=\"nofollow\">http://webcolourdata.com</a></p>", 
+                            "web_url": "http://lanyrd.com/profile/riblah/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e3a5e7e86e6f37c41c39b6b548494059f3a729d-s300.jpeg", 
+                            "name": "Ri Liu", 
+                            "elsewhere": [], 
+                            "role": "Australian designer & coder living in Chicago. Creator of http://webcolourdata.com", 
+                            "twitter": "@riblah", 
+                            "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/5e3a5e7e86e6f37c41c39b6b548494059f3a729d-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Visualising Motion Data", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 12:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448071200, 
+                    "abstract": "<p>This talk is part intro to data visualisation, a small part tools and a big part process.</p>\n<p>I was originally drawn to data vis from web design due to its ideal balance between art, tech and science. After having completed a variety of projects spanning the field, I\u2019ll be talking about how I work and my approach to a visualisation project using dance motion data.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 14:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtrwc/", 
+                    "times": "2:00pm\u00a0-\u00a02:30pm", 
+                    "id": "sdtrwc", 
+                    "types": [], 
+                    "end_time_epoch": 1448080200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>I love germany, skiing, internet and stuff. Aspiring dev, accomplished lifelong learner. Technical recruiter @LookaheadSearch</p>", 
+                            "web_url": "http://lanyrd.com/profile/melissakaulfuss/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/894bb6037477291f9236b4feb750a9184fc6a8a3-s300.png", 
+                            "name": "Melissa Kaulfuss", 
+                            "elsewhere": [], 
+                            "role": "Full time geek. \nWannabe Software Developer.\nWork - @LookaheadSearch", 
+                            "twitter": "@MelissaKaulfuss", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/894bb6037477291f9236b4feb750a9184fc6a8a3-s75.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Naming things is hard \u2013 fixing diversity is harder", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448078400, 
+                    "abstract": "<p>We\u2019ve all seen the tweets, heard the pleas (and the wails and the gnashing of teeth), read the mission statements. But, one of the biggest issues facing tech is still not solved, no-one has managed to address the diversity issue successfully.</p>\n<p>I\u2019ve spent years as the only (non-tech) female in dev teams. I\u2019ve most recently started life as a technical recruiter building software teams for other people. I\u2019ve seen things from both sides of the fence and it\u2019s now my personal mission to see things change.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 14:00:00", 
+                    "topics": [
+                        {
+                            "name": "Node.js", 
+                            "slug": "nodejs"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphb/", 
+                    "times": "2:00pm\u00a0-\u00a02:30pm", 
+                    "id": "sdtphb", 
+                    "types": [], 
+                    "end_time_epoch": 1448080200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Javascript/Node.js dev, system architect, roboticist, father.</p>", 
+                            "web_url": "http://lanyrd.com/profile/garrows/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/cb30b7faa7ea9f9365704d9e7e75dc9ea045706c-s300.jpeg", 
+                            "name": "Glen Arrowsmith", 
+                            "elsewhere": [], 
+                            "role": "Javascript/Node.js dev, system architect, roboticist, father.", 
+                            "twitter": "@garrows", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/cb30b7faa7ea9f9365704d9e7e75dc9ea045706c-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Writing Node.js Command Line Tools", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448078400, 
+                    "abstract": "<p>Learn how to leverage node &amp; npm to turn your scripts and snippets into powerful, well tested, command line tools.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwmyg/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "sdwmyg", 
+                    "types": [], 
+                    "end_time_epoch": 1448083800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>javascript meta-haxx, cyberpunking, alternative lifestyles of the rich and/or resourceful</p>", 
+                            "web_url": "http://lanyrd.com/profile/dominictarr/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/98916987f30076e3efc544be1644eab11ea2f327-s300.jpg", 
+                            "name": "Dominic Tarr", 
+                            "elsewhere": [], 
+                            "role": "javascript meta-haxx, cyberpunking, alternative lifestyles of the rich and/or resourceful", 
+                            "twitter": "@dominictarr", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/98916987f30076e3efc544be1644eab11ea2f327-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Adventures in Crypto", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448080200, 
+                    "abstract": "<p>Dominic Tarr has jumped head first into the world of crypto as part of his work with <a href=\"https://github.com/ssbc\" rel=\"nofollow\">Secure Scuttlebutt</a>.  In this informal workshop, Dominic will share all he has learned in the world of crypto from a fundamentals level.  In his words: &quot;learn about crypto until your head explodes or I am kicked out of the room&quot;.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 14:30:00", 
+                    "topics": [
+                        {
+                            "name": "Client-side development", 
+                            "slug": "client-side-development"
+                        }, 
+                        {
+                            "name": "JavaScript", 
+                            "slug": "javascript"
+                        }, 
+                        {
+                            "name": "Maintainability", 
+                            "slug": "maintainability"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgz/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "sdtpgz", 
+                    "types": [], 
+                    "end_time_epoch": 1448083800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>I like to JavaScript.</p>", 
+                            "web_url": "http://lanyrd.com/profile/korynunn/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/604c7ae95049e9b1beca496862d44d81455d615f-s300.jpeg", 
+                            "name": "Kory Nunn", 
+                            "elsewhere": [], 
+                            "role": "I like to JavaScript.", 
+                            "twitter": "@KoryNunn", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/604c7ae95049e9b1beca496862d44d81455d615f-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Maintainable client-side applications (Workshop)", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448080200, 
+                    "abstract": "<p>Robustness, maintainability, and performance. One thing that can improve all, is doing less.</p>\n<p>Less to break, less to refactor, less to process.</p>\n<p>Using fewer, smaller tools, and modularising everything can make building robust applications easy.</p>\n<p>In this workshop we&#39;ll make an app using small, easy to reason about tools.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 15:30:00", 
+                    "topics": [
+                        {
+                            "name": "http/2", 
+                            "slug": "http2"
+                        }, 
+                        {
+                            "name": "JavaScript", 
+                            "slug": "javascript"
+                        }, 
+                        {
+                            "name": "SPDY", 
+                            "slug": "spdy"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgr/", 
+                    "times": "3:30pm\u00a0-\u00a04:00pm", 
+                    "id": "sdtpgr", 
+                    "types": [], 
+                    "end_time_epoch": 1448085600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Complete champ</p>", 
+                            "web_url": "http://lanyrd.com/profile/poooorty/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/dd1522b91b58df9476c19ee2b3b60b61cbf1a60d-s300.jpeg", 
+                            "name": "Robert McNeil", 
+                            "elsewhere": [], 
+                            "role": "Complete champ", 
+                            "twitter": "@poooorty", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/dd1522b91b58df9476c19ee2b3b60b61cbf1a60d-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "HTTP/2 and what it means for JS", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 16:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448083800, 
+                    "abstract": "<p>The HTTP/1.1 spec we all know and love was proposed 18 years ago and is now old enough to vote.<br>\nHTTP/2 (built from SPDY) still wet behind the ears but is already implemented by the majority of browsers and in use by a whopping 1.4% of websites.<br>\nIt claims to increase page load speed, decrease latency, add header compression, server push and parallel streaming over a single TCP connection.</p>\n<p>What we&#39;ll be going through is the protocol details and the affect of HTTP/2 on real-world browser web application performance.<br>\nWe&#39;ll also look at our current web asset bundling/optimisation techniques and see how an HTTP/2 world will change our best practices.<br>\nFinally, we&#39;ll see what frameworks, servers and CDNs implement HTTP/2.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 15:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwmyf/", 
+                    "times": "3:30pm\u00a0-\u00a04:00pm", 
+                    "id": "sdwmyf", 
+                    "types": [], 
+                    "end_time_epoch": 1448085600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Journalist turned web developer. General Assembly grad. Degrees in Journalism&amp;Arts. Love data. Love to run. Sweet tooth. Prefer summer.</p>", 
+                            "web_url": "http://lanyrd.com/profile/amesimmons/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e2939be2a63b26330b7815dece0a49c02fbe056e-s300.jpeg", 
+                            "name": "Amy Simmons", 
+                            "elsewhere": [], 
+                            "role": "Journalist turned web developer. General Assembly grad. Degrees in Journalism&Arts. Love data. Love to run. Sweet tooth. Prefer summer.", 
+                            "twitter": "@amesimmons", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e2939be2a63b26330b7815dece0a49c02fbe056e-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Undefined is not a function: A guide to the care and feeding of new devs", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 16:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448083800, 
+                    "abstract": "<p>From six years as a journalist to six months as a developer, Amy shares her coding journey and offers a stark reminder on what its like to be a junior dev.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 16:30:00", 
+                    "topics": [
+                        {
+                            "name": "HTML5", 
+                            "slug": "html5"
+                        }, 
+                        {
+                            "name": "WebVR", 
+                            "slug": "webvr"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgw/", 
+                    "times": "4:30pm\u00a0-\u00a05:00pm", 
+                    "id": "sdtpgw", 
+                    "types": [], 
+                    "end_time_epoch": 1448089200, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/lostoracle/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/4ccdf05f65e7f476dc8710dc6731a25219a0efa7-s300.jpeg", 
+                            "name": "Nick Desaulniers\u2400", 
+                            "elsewhere": [], 
+                            "role": "", 
+                            "twitter": "@LostOracle", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/4ccdf05f65e7f476dc8710dc6731a25219a0efa7-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "WebVR", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448087400, 
+                    "abstract": "<p>WebVR! What&#39;s the state of VR on the web, rendering techniques, and challenges.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtptq/", 
+                    "times": "5:00pm\u00a0-\u00a05:30pm", 
+                    "id": "sdtptq", 
+                    "types": [], 
+                    "end_time_epoch": 1448091000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>I develop <a href=\"http://www.scenevr.com\" rel=\"nofollow\">http://www.scenevr.com</a>, and my day job is as a rails developer at <a href=\"http://powershop.co.nz\" rel=\"nofollow\">http://powershop.co.nz</a>.</p>", 
+                            "web_url": "http://lanyrd.com/profile/bnolan/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a843d06d19b59fd7681d7dcfd2d69d4c7b7455d9-s300.jpeg", 
+                            "name": "Ben Nolan", 
+                            "elsewhere": [], 
+                            "role": "I develop http://www.scenevr.com, and my day job is as a rails developer at http://powershop.co.nz.", 
+                            "twitter": "@bnolan", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a843d06d19b59fd7681d7dcfd2d69d4c7b7455d9-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "SceneVR", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 17:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448089200, 
+                    "abstract": "<p>Using websockets, webgl, node.js and a virtual dom to create the metaverse in the browser.</p>\n<p>Having read snowcrash and ready player one, I am super excited about an online virtual world that is compelling, immersive and as crazy as the open web. Scene is my attempt to build this, an opensource platform for people to build scenes that link together with portals to create one big world that you can explore in your browser. I\u2019ll talk over the background of the project, where it\u2019s at now, and run a session on using javascript to create multiplayer games in Scene.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-21 17:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwcqm/", 
+                    "times": "5:30pm\u00a0-\u00a06:30pm", 
+                    "id": "sdwcqm", 
+                    "types": [], 
+                    "end_time_epoch": 1448094600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>#Yogi, Tech Director @seeddigitalco. We develop #digital #apps &amp; #apis for #startups &amp; #enterprise. ping for product #startegy #appdesign, #ux, #cx #development</p>", 
+                            "web_url": "http://lanyrd.com/profile/mikeebinum/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/603269a597141b67abdd693185b91009986639fa-s300.jpeg", 
+                            "name": "Mike Ebinum", 
+                            "elsewhere": [], 
+                            "role": "#Yogi, Tech Director @seeddigitalco. We develop #digital #apps & #apis for #startups & #enterprise. ping for product #startegy #appdesign, #ux, #cx #development", 
+                            "twitter": "@mikeebinum", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/603269a597141b67abdd693185b91009986639fa-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Going from 0-100: Using JS to build Mobile apps with React Native", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 18:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448091000, 
+                    "abstract": "<p>There are few frameworks that have promised \u201cWrite once, run everywhere\u201d but the reality as we know it is every platform is different with different nuances that requires a different way of thinking. Facebook\u2019s React Native offers a new promise which is \u201cLearn once, write anywhere\u201d.</p>\n<p>In this practical session we&#39;ll go &quot;native&quot; using JavaScript I&#39;ll cover:</p>\n<ul class=\"bullets\">\n  <li>What React is and how it works in the &quot;wild&quot;, the React Native platform for iOS, and Android.</li>\n  <li>Building your application (iOS + Android on OSX, iOS only available on macs)</li>\n  <li>CSS styling, using React components, and utilising existing javascript tools</li>\n  <li>Creating and reusing your own components</li>\n  <li>Packaging and Deploying your application</li>\n</ul>\n<p>What to bring:</p>\n<ul class=\"bullets\">\n  <li>Your laptop and smiles</li>\n  <li>OSX: XCode, Text editor, Git, NodeJS (&gt;= v4), React Native installed</li>\n  <li>Windows: Text Editor, Git, NodeJS (&gt;= v4), React Native  Android SDK</li>\n</ul>"
+                }, 
+                {
+                    "start_time": "2015-11-21 17:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtrtx/", 
+                    "times": "5:30pm\u00a0-\u00a06:30pm", 
+                    "id": "sdtrtx", 
+                    "types": [], 
+                    "end_time_epoch": 1448094600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Javascript hacker, and SproutCore Consultant. I love all things Web and Open.</p>", 
+                            "web_url": "http://lanyrd.com/profile/geoffreyd/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/92395b69ea08b19d005b5fe45524ef0a2277fd59-s300.jpg", 
+                            "name": "Geoffrey Donaldson", 
+                            "elsewhere": [], 
+                            "role": "Javascript hacker, and SproutCore Consultant. I love all things Web and Open.", 
+                            "twitter": "@geoffreyd", 
+                            "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/92395b69ea08b19d005b5fe45524ef0a2277fd59-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "PouchDB and CouchDB", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Saturday 21st November", 
+                    "end_time": "2015-11-21 18:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448091000, 
+                    "abstract": "<p>Explore the possibilities of offline capable mobile apps with CouchDB &amp; PouchDB as we create one together. What better place than an offline camp?</p>"
+                }
+            ]
+        }, 
+        {
+            "day": "Sunday 22nd November", 
+            "sessions": [
+                {
+                    "start_time": "2015-11-22 10:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphf/", 
+                    "times": "10:00am\u00a0-\u00a03:30pm", 
+                    "id": "sdtphf", 
+                    "types": [], 
+                    "end_time_epoch": 1448170200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Javascript/Node.js dev, system architect, roboticist, father.</p>", 
+                            "web_url": "http://lanyrd.com/profile/garrows/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/cb30b7faa7ea9f9365704d9e7e75dc9ea045706c-s300.jpeg", 
+                            "name": "Glen Arrowsmith", 
+                            "elsewhere": [], 
+                            "role": "Javascript/Node.js dev, system architect, roboticist, father.", 
+                            "twitter": "@garrows", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/cb30b7faa7ea9f9365704d9e7e75dc9ea045706c-s75.jpeg", 
+                            "speaker_bio": ""
+                        }, 
+                        {
+                            "bio": "<p>Builds things. Currently working with a RepRap, Arduino, Go, Android and r\u0336u\u0336b\u0336y\u0336-\u0336o\u0336n\u0336-\u0336r\u0336a\u0336i\u0336l\u0336s\u0336. Occasionally derps with Haskell.</p>", 
+                            "web_url": "http://lanyrd.com/profile/clinton_freeman/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a12c38075f3913fc93896ab486588eac33e599f8-s300.jpeg", 
+                            "name": "Clinton Freeman", 
+                            "elsewhere": [], 
+                            "role": "Builds things. Currently working with a RepRap, Arduino, Go, Android and r\u0336u\u0336b\u0336y\u0336-\u0336o\u0336n\u0336-\u0336r\u0336a\u0336i\u0336l\u0336s\u0336. Occasionally derps with Haskell.", 
+                            "twitter": "@clinton_freeman", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a12c38075f3913fc93896ab486588eac33e599f8-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Let's Fly Kites! (Activity / Making)", 
+                    "event_id": "cfqyqw", 
+                    "space": "Festival Marquee", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448150400, 
+                    "abstract": "<p>This is a drop-in and drop-out activity where we play around with JS powered hardware and kites!  The goal of the activity is to get to a point where we are taking aerial photography with the kites and capturing mementos of our time together :)</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 10:00:00", 
+                    "topics": [
+                        {
+                            "name": "Making", 
+                            "slug": "making"
+                        }, 
+                        {
+                            "name": "Node.js", 
+                            "slug": "nodejs"
+                        }, 
+                        {
+                            "name": "Wearables", 
+                            "slug": "wearables"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgy/", 
+                    "times": "10:00am\u00a0-\u00a03:30pm", 
+                    "id": "sdtpgy", 
+                    "types": [], 
+                    "end_time_epoch": 1448170200, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/annagerber/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/bb77cde2c64ad6bdba0a459e856952994c2ff326-s300.jpeg", 
+                            "name": "Anna Gerber", 
+                            "elsewhere": [
+                                {
+                                    "url": "http://twitter.com/AnnaGerber"
+                                }, 
+                                {
+                                    "url": "http://crufti.com/"
+                                }
+                            ], 
+                            "role": "Maker, NodeBoteer, senior software developer, hardware hacker", 
+                            "twitter": "@AnnaGerber", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/bb77cde2c64ad6bdba0a459e856952994c2ff326-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Making Wearables (Activity / Making)", 
+                    "event_id": "cfqyqw", 
+                    "space": "Festival Marquee", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448150400, 
+                    "abstract": "<p>This is a drop in and out workshop. We&#39;ll cover some of the basics of designing custom wearables (circuit design, power considerations, choosing a microcontroller etc) and how to develop JS programs to control your wearable creations. We&#39;ll step through building and programming a blinged-up bowtie with ESP8266.  Because bowties are cool.</p>\n<p>No previous electronics experience is necessary. <br>\nBasic familiarity with command line and Node.js will be assumed.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 11:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwwpb/", 
+                    "times": "11:00am\u00a0-\u00a011:30am", 
+                    "id": "sdwwpb", 
+                    "types": [], 
+                    "end_time_epoch": 1448155800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>JavaScripter, Rubyist, Gopher, Blogger and obsessive compulsive coder</p>", 
+                            "web_url": "http://lanyrd.com/profile/sebasporto/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e1cea85fcb6b17e9322632188b88accde00e0224-s300.jpeg", 
+                            "name": "Sebastian Porto", 
+                            "elsewhere": [], 
+                            "role": "Web apps is what I do", 
+                            "twitter": "@sebasporto", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e1cea85fcb6b17e9322632188b88accde00e0224-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Elm", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 11:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448154000, 
+                    "abstract": "<p>More details coming during the event!</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 11:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwdxr/", 
+                    "times": "11:00am\u00a0-\u00a011:30am", 
+                    "id": "sdwdxr", 
+                    "types": [], 
+                    "end_time_epoch": 1448155800, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/bondifrench-7382/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c3ad6e9f4e200be322fad70adf83ec7bfa8e7d8f-s300.jpeg", 
+                            "name": "Dominik Dumaine", 
+                            "elsewhere": [], 
+                            "role": "", 
+                            "twitter": null, 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c3ad6e9f4e200be322fad70adf83ec7bfa8e7d8f-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Mithril.JS", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 11:30:00", 
+                    "other_url": "http://mithril.js.org/", 
+                    "start_time_epoch": 1448154000, 
+                    "abstract": "<p>MithrilJs: a Javascript Framework for building brilliant Applications</p>\n<p>Main topics: Virtual DOM, Small API, Fast, Web Components, encourages Functional programming</p>\n<p>Examples of Websites/Apps using Mithril in production:</p>\n<ul class=\"bullets\">\n  <li>the forum software <a href=\"http://discuss.flarum.org/\" rel=\"nofollow\">Flarum</a>, developed by a team based in Melbourne, </li>\n  <li>Lichess/Lichobile: the second largest chess website on the net, totally free and open source, <a href=\"http://en.lichess.org/\" rel=\"nofollow\">desktop version</a> and <a href=\"https://github.com/veloce/lichobile\" rel=\"nofollow\">Mobile App</a></li>\n  <li><a href=\"https://techwalla.com/\" rel=\"nofollow\">Techwalla</a> &quot;Tech reviews you can trust&quot;, example of isomorphic app, entire front-end is Mithril and use of mithril-node-render for server-side rendering</li>\n</ul>"
+                }, 
+                {
+                    "start_time": "2015-11-22 11:30:00", 
+                    "topics": [
+                        {
+                            "name": "haXe", 
+                            "slug": "haxe"
+                        }, 
+                        {
+                            "name": "JavaScript", 
+                            "slug": "javascript"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphd/", 
+                    "times": "11:30am\u00a0-\u00a012:00pm", 
+                    "id": "sdtphd", 
+                    "types": [], 
+                    "end_time_epoch": 1448157600, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/bguiz/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c30a28e9645933d23b564cc73ce39a4917c7767b-s300.png", 
+                            "name": "Brendan Graetz", 
+                            "elsewhere": [
+                                {
+                                    "url": "https://github.com/bguiz"
+                                }
+                            ], 
+                            "role": "", 
+                            "twitter": "@bguiz", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c30a28e9645933d23b564cc73ce39a4917c7767b-s75.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Haxe for Javascripters", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448155800, 
+                    "abstract": "<ul class=\"bullets\">\n  <li>Do you use a compile-to-Javascript language?</li>\n  <li>Have you gotten stuck when running Javascript on different devices?</li>\n  <li>Why am I talking about not-Javascript at a Javascript conference?</li>\n</ul>\n<p>Haxe is a language that can compile to Javascript, in addition to 8 other languages, and even compiles natively for some targets.  It is heavily inspired by ECMAScript, so it can be picked up in less than a day if you already know Javascript.</p>\n<p>(as an aside, if you like Typescript, you&#39;ll love Haxe)</p>\n<p>It is a mature language to boot - it has been around for a decade now.</p>\n<p>... The only thing is, hardly anyone has heard of it, and I think that that&#39;s quite a shame -</p>\n<p>My goal for the talk: to get this virtually unheard of language the attention &amp; headspace I think it deserves.</p>\n<p>In Haxe for Javascripters, I&#39;ll give you a high level overview of Haxe, its community, its language feature, its pros and cons It&#39;ll be all done from the point of view of Javascript developers like you.</p>\n<p>Check out <a href=\"http://blog.bguiz.com/2015/10/06/haxe-for-javascripters/\" rel=\"nofollow\">this post</a> for more details.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 11:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtrtt/", 
+                    "times": "11:30am\u00a0-\u00a012:30pm", 
+                    "id": "sdtrtt", 
+                    "types": [], 
+                    "end_time_epoch": 1448159400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>IT Lawyer. Doing law in a way that doesn&#39;t make me want to jump off a bridge (unless it involves a bungee rope).</p>", 
+                            "web_url": "http://lanyrd.com/profile/idealaw/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/34fbaabab2476a95306602fad96d6bffa075a31d-s300.jpg", 
+                            "name": "Kay Lam-MacLeod", 
+                            "elsewhere": [], 
+                            "role": "IT Lawyer. Doing law in a way that doesn't make me want to jump off a bridge (unless it involves a bungee rope).", 
+                            "twitter": "@Idealaw", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/34fbaabab2476a95306602fad96d6bffa075a31d-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Legals for Developers", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 12:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448155800, 
+                    "abstract": "<p>There&#39;s a lot to know if you are thinking about going out on your own, or even just writing / maintaining OpenSource software in addition to other things that you do.</p>\n<p>We are very lucky this CampJS to be able to host Kay who&#39;ll give us some info on the basics of what you need to be aware of with regards to legals, and also open up the floor to general questions to help you navigate the waters of whatever it is you are doing.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 12:00:00", 
+                    "topics": [
+                        {
+                            "name": "WASM", 
+                            "slug": "wasm"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtpgx/", 
+                    "times": "12:00pm\u00a0-\u00a012:30pm", 
+                    "id": "sdtpgx", 
+                    "types": [], 
+                    "end_time_epoch": 1448159400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/lostoracle/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/4ccdf05f65e7f476dc8710dc6731a25219a0efa7-s300.jpeg", 
+                            "name": "Nick Desaulniers\u2400", 
+                            "elsewhere": [], 
+                            "role": "", 
+                            "twitter": "@LostOracle", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/4ccdf05f65e7f476dc8710dc6731a25219a0efa7-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "WASM", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 12:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448157600, 
+                    "abstract": "<p>Web Assembly (WASM). What is it, what does this mean to Web Devs, and how far along is browser vendor implementation?</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 13:30:00", 
+                    "topics": [
+                        {
+                            "name": "Arduino", 
+                            "slug": "arduino"
+                        }, 
+                        {
+                            "name": "Wearables", 
+                            "slug": "wearables"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphc/", 
+                    "times": "1:30pm\u00a0-\u00a02:30pm", 
+                    "id": "sdtphc", 
+                    "types": [], 
+                    "end_time_epoch": 1448166600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>American-Aussie geek, speaker, blogger, knitter, and social media addict. I work at @Canva and blog at <a href=\"http://web-goddess.org\" rel=\"nofollow\">http://web-goddess.org</a> . I help out with @GGDSydney too.</p>", 
+                            "web_url": "http://lanyrd.com/profile/web_goddess/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/9a5f859c0bb6bd8f83c60f93ac34a0684bb52ca4-s300.jpeg", 
+                            "name": "Kris Howard", 
+                            "elsewhere": [
+                                {
+                                    "url": "https://au.linkedin.com/in/kristinehoward"
+                                }, 
+                                {
+                                    "url": "http://www.metafilter.com/user/9193"
+                                }, 
+                                {
+                                    "url": "http://www.ravelry.com/people/webgoddess"
+                                }, 
+                                {
+                                    "url": "http://krishoward.org/"
+                                }, 
+                                {
+                                    "url": "http://www.web-goddess.org/"
+                                }
+                            ], 
+                            "role": "American-Aussie geek, speaker, blogger, knitter, and social media addict. I work at @Canva and blog at http://web-goddess.org . I help out with @GGDSydney too.", 
+                            "twitter": "@web_goddess", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/9a5f859c0bb6bd8f83c60f93ac34a0684bb52ca4-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Knitting and e-textiles! (Workshop)", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448163000, 
+                    "abstract": "<p>Knitting and computer code have a lot in common. (I\u2019m serious!) You can encode data in your projects, or use them as the basis for adding electronics. I\u2019ve been <a href=\"http://www.ravelry.com/projects/webgoddess/\" rel=\"nofollow\">knitting for years</a> and I love teaching people to make things. A great beginner project is a <a href=\"https://learn.adafruit.com/adafruit-led-sequins/gemma-sequin-hat\" rel=\"nofollow\">light up beanie</a>, which uses a <a href=\"http://core-electronics.com.au/adafruit-gemma-sequin-starter-pack.html\" rel=\"nofollow\">Gemma Sequin Starter Kit</a>. We\u2019ll have basic knitting supplies and Gemma kits available on the day, but please feel free to bring your own** if you\u2019ve got something you particularly want to use. Other useful things to have: scissors, mini-USB cable, laptop with <a href=\"https://www.arduino.cc/en/Main/Software\" rel=\"nofollow\">Arduino IDE</a>. I\u2019ll also provide felt if you want to try sewing with conductive thread but don\u2019t want to knit.</p>\n<p>** I\u2019m happy to help with other knitting projects too! Drop me a line (<a href=\"mailto:kris.howard@gmail.com\">kris.howard@gmail.com</a>) if you want advice on a pattern or what to bring. (Just not crochet. I suck at crochet.)</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 13:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphp/", 
+                    "times": "1:30pm\u00a0-\u00a02:30pm", 
+                    "id": "sdtphp", 
+                    "types": [], 
+                    "end_time_epoch": 1448166600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Readify Senior Developer, JavaScript fanboy, open web lover, web MVPness holder, IE userAgent, IndexedDB proponent</p>", 
+                            "web_url": "http://lanyrd.com/profile/slace/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/b0330fcb2dd178e470c642c22c37ebc507c52718-s300.png", 
+                            "name": "Aaron Powell", 
+                            "elsewhere": [], 
+                            "role": "Readify Lead Consultant, JavaScript fanboy, open web lover, web MVPness holder, IE userAgent, IndexedDB proponent", 
+                            "twitter": "@slace", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/b0330fcb2dd178e470c642c22c37ebc507c52718-s75.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "TypeScript and React", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448163000, 
+                    "abstract": "<p>PropType validation in React.js is cool but limited to runtime checking, just imagine if you knew how your structures looked before React event used them? In this workshop we\u2019ll build a simple React.js application using TypeScript to add type checking on top of React\u2019s core.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphw/", 
+                    "times": "2:30pm\u00a0-\u00a03:00pm", 
+                    "id": "sdtphw", 
+                    "types": [], 
+                    "end_time_epoch": 1448168400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>{ui,node,unix} he/him</p>", 
+                            "web_url": "http://lanyrd.com/profile/yoshuawuyts/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/dca854ecb6ac32e24be8eb3d7cfd785c47311acb-s300.jpeg", 
+                            "name": "Yoshua Wuyts", 
+                            "elsewhere": [], 
+                            "role": "unix", 
+                            "twitter": "@yoshuawuyts", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/dca854ecb6ac32e24be8eb3d7cfd785c47311acb-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "20 Packages in 20 Minutes", 
+                    "event_id": "cfqyqw", 
+                    "space": "Farm House", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 15:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448166600, 
+                    "abstract": "<p>Showcasing a broad spectrum of Node development showing off a package you may or may not have heard of, but are either useful, exciting or just very cool. Demos included.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtrtw/", 
+                    "times": "2:30pm\u00a0-\u00a03:00pm", 
+                    "id": "sdtrtw", 
+                    "types": [], 
+                    "end_time_epoch": 1448168400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>brooding duplicitous, wicked and able, me I like to build things <a href=\"https://github.com/liammclennan\" rel=\"nofollow\">https://github.com/liammclennan</a>. Interested in programming, testing, JavaScript and Backbone.js</p>", 
+                            "web_url": "http://lanyrd.com/profile/liammclennan/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/487485d838416c5b60fda3c09a594c4510e3fced-s300.jpeg", 
+                            "name": "Liam McLennan", 
+                            "elsewhere": [], 
+                            "role": "I like to build things https://github.com/liammclennan. Allegro con brio. Principal Consultant @ Readify.", 
+                            "twitter": "@liammclennan", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/487485d838416c5b60fda3c09a594c4510e3fced-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Model View Intent: A UI Architecture That Works.", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 15:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448166600, 
+                    "abstract": "<p>The majority of web application development has now shifted to client-rendered applications, also known as SPAs (single page applications). This shift has brought a huge increase in responsiveness but also in complexity. The first generation of libraries (Backbone, Angular, and Ember) did nothing to help developers manage this new complexity.</p>\n<p>A new design to tame this complexity and distill it to its essence is emerging, sometimes called Model View Intent or Unidirectional data flow.</p>\n<p>This presentation will describe the model-view-intent design and how it solves the problems found in the current generation of libraries. We will then build upon the theory by investigating some practical application of the ideas.</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 16:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdwdxx/", 
+                    "times": "4:00pm\u00a0-\u00a06:00pm", 
+                    "id": "sdwdxx", 
+                    "types": [], 
+                    "end_time_epoch": 1448179200, 
+                    "speakers": [], 
+                    "title": "Lightning Talks", 
+                    "event_id": "cfqyqw", 
+                    "space": "Food Hall", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448172000, 
+                    "abstract": "<p>Have a project or something interesting to share that you can talk about in about 5 - 10 minutes?  This is the place to do it!  Not to be confused with the demos, that&#39;s all about that crazy stuff you make over the CampJS weekend :)</p>"
+                }, 
+                {
+                    "start_time": "2015-11-22 20:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2015/campjsnews/sdtphr/", 
+                    "times": "8:00pm\u00a0-\u00a09:30pm", 
+                    "id": "sdtphr", 
+                    "types": [], 
+                    "end_time_epoch": 1448191800, 
+                    "speakers": [], 
+                    "title": "Demos", 
+                    "event_id": "cfqyqw", 
+                    "space": "Common Area", 
+                    "day": "Sunday 22nd November", 
+                    "end_time": "2015-11-22 21:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1448186400, 
+                    "abstract": ""
+                }
+            ]
+        }
+    ]
+}

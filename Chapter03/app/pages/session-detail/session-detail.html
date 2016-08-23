@@ -1,0 +1,19 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            Session
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <ion-card>
+        <ion-card-content>
+            <ion-card-title>
+                {{session.title}}
+            </ion-card-title>
+            <h3 *ngFor="let speaker of session.speakers">{{speaker.name}}</h3>
+            <p [innerHTML]="session.abstract"><p>
+        </ion-card-content>
+    </ion-card>
+</ion-content>

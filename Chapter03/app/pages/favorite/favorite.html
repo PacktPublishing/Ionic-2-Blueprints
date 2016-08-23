@@ -1,0 +1,22 @@
+<ion-header>
+    <ion-navbar primary>
+        <ion-title>Favorite</ion-title>
+    </ion-navbar>
+</ion-header>
+    
+<ion-content>
+    <ion-list>
+     <ion-item-sliding *ngFor="let session of favorites; let i = index" >
+        <button ion-item (click)="openSession(session)">
+          <h3>{{session.title}}</h3>
+          <p>
+            {{session.times}}
+            {{session.space}}
+          </p>
+        </button>
+        <ion-item-options>
+            <button (click)="deleteSession(i)">Delete</button>
+        </ion-item-options>
+     </ion-item-sliding>
+    </ion-list>
+</ion-content>

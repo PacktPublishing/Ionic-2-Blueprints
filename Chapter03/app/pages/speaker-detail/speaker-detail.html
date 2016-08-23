@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>{{speaker.name}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+  <img [src]="speaker.image_75" *ngIf="!offline"/>
+  <ion-card-content>
+    <ion-card-title>
+      {{speaker.name}}
+      </ion-card-title>
+    <p>
+      {{speaker.role}}
+    </p>
+  </ion-card-content>
+</ion-card>
+
+<ion-card>
+    <ion-item-divider>
+       Sessions
+    </ion-item-divider>
+    <button ion-item *ngFor="let session of speaker.sessions" (click)="openSession(session)">
+         {{session.title}}
+    </button>
+</ion-card>
+</ion-content>
