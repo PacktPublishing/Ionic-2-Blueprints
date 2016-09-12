@@ -1,5 +1,5 @@
 # Ionic-2-Blueprints
-By Packt Publishing
+By Packt
 
 This is the code repository for [Ionic-2-Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
 
