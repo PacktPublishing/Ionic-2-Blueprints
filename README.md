@@ -10,3 +10,11 @@ Related Books
 *[Introducing Ionic 2 - Video](https://www.packtpub.com/web-development/introducing-ionic-2-video?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781786469144)
 
 *[Learning Ionic](https://www.packtpub.com/application-development/learning-ionic?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781783552603)
+
+Software requirements
+
+*Node.js
+*Cordova
+*Ionic CLI utility
+*Git
+*Native SDK for mobile platforms
