@@ -10,17 +10,14 @@ This book is for intermediate-level Ionic developers who have some experience of
 ##Related Books
 
 * [Introducing Ionic 2 - Video](https://www.packtpub.com/web-development/introducing-ionic-2-video?utm_source=github&utm_medium=repository&utm_campaign=9781786469144)
-
 * [Learning Ionic](https://www.packtpub.com/application-development/learning-ionic?utm_source=github&utm_medium=repository&utm_campaign=9781783552603)
+* [Ionic Cookbook](https://www.packtpub.com/web-development/ionic-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785287978)
+
 
 ##Software requirements
 
 * Node.js
-
 * Cordova
-
 * Ionic CLI utility
-
 * Git
-
 * Native SDK for mobile platforms
